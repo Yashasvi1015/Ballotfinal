@@ -1,7 +1,4 @@
-#voting application
-##ballot
-
-Hardhat Project
+# Hardhat Project
 
 After cloning the github, you will want to do the following to get the code running on your computer.
 
@@ -13,6 +10,8 @@ After cloning the github, you will want to do the following to get the code runn
 
 After this, the project will be running on your localhost. 
 Typically at http://localhost:3000/
+# Voting Application
+## ballot contract 
 
 ```solidity
 // SPDX-License-Identifier: GPL-3.0
